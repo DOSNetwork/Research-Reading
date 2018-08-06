@@ -6,6 +6,7 @@ Research/Reading topics/projects related to DOS protocols
 - [What is the math behind elliptic curve cryptography?](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
 - [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [How Schnorr signatures may improve Bitcoin](https://medium.com/@snigirev.stepan/how-schnorr-signatures-may-improve-bitcoin-91655bcb4744)
+- [Elliptic Curves](https://crypto.stanford.edu/pbc/notes/elliptic/)
 
 
 
