@@ -1,2 +1,33 @@
-# Research
-Research topics/projects related to DOS protocols
+# Research & Reading
+Research/Reading topics/projects related to DOS protocols
+
+
+## Basics:
+- [What is the math behind elliptic curve cryptography?](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
+- [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
+- [How Schnorr signatures may improve Bitcoin](https://medium.com/@snigirev.stepan/how-schnorr-signatures-may-improve-bitcoin-91655bcb4744)
+
+
+
+## Advanced:
+
+
+
+
+### Group Signatures:
+ - [A Survey of Group Signature Technique, its Applications and Attacks](https://pdfs.semanticscholar.org/97e8/d3830863b96a47f187d093981b4e37f5e2f8.pdf)
+ - [Group Signatures Authentication with Privacy](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/GruPA/GruPA.pdf?__blob=publicationFile)
+ - http://courses.csail.mit.edu/6.897/spring04/L26.pdf
+ - [Practical Threshold Signatures](https://www.iacr.org/archive/eurocrypt2000/1807/18070209-new.pdf)
+ - [Group Signature Schemes with Distributed Traceability (or how to open a signature fairly](https://medium.com/orbs-network/group-signature-schemes-with-distributed-traceability-or-how-to-open-a-signature-fairly-65c76d4d13d1)
+
+
+
+### Threshold Signatures:
+
+
+### DKG:
+
+
+### zkSNARK:
+
