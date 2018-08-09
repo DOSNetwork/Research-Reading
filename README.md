@@ -15,6 +15,9 @@ Research/Reading topics/projects related to DOS protocols
 
 
 
+### Secret Sharing:
+ - [A webpage summarizing secret sharing](https://www.cs.umd.edu/~gasarch/TOPICS/secretsharing/)
+
 
 ### Group Signatures:
  - [A Survey of Group Signature Technique, its Applications and Attacks](https://pdfs.semanticscholar.org/97e8/d3830863b96a47f187d093981b4e37f5e2f8.pdf)
