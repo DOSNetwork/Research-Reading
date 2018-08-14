@@ -4,6 +4,7 @@ Research/Reading topics/projects related to DOS protocols
 
 ## Basics:
 - [What is the math behind elliptic curve cryptography?](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
+- [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 - [Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
 - [Elliptic Curves](https://crypto.stanford.edu/pbc/notes/elliptic/)
 - [Choosing safe curves for elliptic-curve cryptography](https://safecurves.cr.yp.to)
