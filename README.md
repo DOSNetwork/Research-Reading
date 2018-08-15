@@ -10,9 +10,10 @@ Research/Reading topics/projects related to DOS protocols
 - [Choosing safe curves for elliptic-curve cryptography](https://safecurves.cr.yp.to)
 
 ## Signatures BLS and Schnorr:
+- [How Schnorr signatures may improve Bitcoin](https://medium.com/@snigirev.stepan/how-schnorr-signatures-may-improve-bitcoin-91655bcb4744)
 - [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [Secret Sharing and Threshold Signatures with BLS](https://blog.dash.org/secret-sharing-and-threshold-signatures-with-bls-954d1587b5f)
-- [How Schnorr signatures may improve Bitcoin](https://medium.com/@snigirev.stepan/how-schnorr-signatures-may-improve-bitcoin-91655bcb4744)
+- [BLS: Is it really that slow?](https://blog.dash.org/bls-is-it-really-that-slow-4ca8c1fcd38e)
 
 
 
