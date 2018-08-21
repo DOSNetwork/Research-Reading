@@ -52,3 +52,4 @@ Research/Reading topics/projects related to DOS protocols
  - [Solidity](https://solidity.readthedocs.io/en/v0.4.24/index.html)
  - [go-ethereum](https://goethereumbook.org/)
  - [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
+  - [Seebug](https://paper.seebug.org/category/blockchain/)
