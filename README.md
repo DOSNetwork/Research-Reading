@@ -9,17 +9,26 @@ Research/Reading topics/projects related to DOS protocols
 - [Elliptic Curves](https://crypto.stanford.edu/pbc/notes/elliptic/)
 - [Choosing safe curves for elliptic-curve cryptography](https://safecurves.cr.yp.to)
 
+
 ## Signatures BLS and Schnorr:
+### Schnorr:
 - [How Schnorr signatures may improve Bitcoin](https://medium.com/@snigirev.stepan/how-schnorr-signatures-may-improve-bitcoin-91655bcb4744)
+- [Schnorr key aggregation, multisig and Rogue Key Attack](https://blockstream.com/2018/01/23/musig-key-aggregation-schnorr-signatures.html)
+- [Scaling bitcoin - schnorr signatures](https://bitcointechtalk.com/scaling-bitcoin-schnorr-signatures-abe3b5c275d1)
+
+### BLS:
 - [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [Secret Sharing and Threshold Signatures with BLS](https://blog.dash.org/secret-sharing-and-threshold-signatures-with-bls-954d1587b5f)
 - [BLS: Is it really that slow?](https://blog.dash.org/bls-is-it-really-that-slow-4ca8c1fcd38e)
+
 
 ## Smart Contracts, Solidity, and Go:
 - [Solidity documentation](https://solidity.readthedocs.io/en/v0.4.24/)
 - [Ethereum Development with Go](https://goethereumbook.org)
 - [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
 - [Unit testing Solidity contracts on Ethereum with Go](https://medium.com/coinmonks/unit-testing-solidity-contracts-on-ethereum-with-go-3cc924091281)
+
+
 
 ## Advanced:
 
@@ -48,8 +57,13 @@ Research/Reading topics/projects related to DOS protocols
 ### zkSNARK:
 
 
-### Solidity and goeth:
- - [Solidity](https://solidity.readthedocs.io/en/v0.4.24/index.html)
- - [go-ethereum](https://goethereumbook.org/)
- - [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
-  - [Seebug](https://paper.seebug.org/category/blockchain/)
+### Solidity, go-etheruem and smart contract security:
+- [Crypto Zombies](https://cryptozombies.io/)
+- [Solidity Official Docs](https://solidity.readthedocs.io/en/v0.4.24/index.html)
+- [OpenZeppelin](https://openzeppelin.org/)
+- [Smart Contract Best Practices, Consensys](https://github.com/ConsenSys/smart-contract-best-practices)
+- [Solidity Challenge Tests by OpenZeppelin](https://ethernaut.zeppelin.solutions/)
+- [go-ethereum](https://goethereumbook.org/)
+- [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
+- [Seebug](https://paper.seebug.org/category/blockchain/)
+
