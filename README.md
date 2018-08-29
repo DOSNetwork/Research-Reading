@@ -57,6 +57,10 @@ Research/Reading topics/projects related to DOS protocols
 
 ### zkSNARK:
 
+### P2P
+- [Ethereum from scratch - Part 1: Ping](https://ocalog.com/post/10/)
+- [Ethereum from scratch - Part 2: Pinging a Bootnode](https://ocalog.com/post/18/)
+- [Ethereum from scratch - Part 3: Decoding Bootnode Response](https://ocalog.com/post/20/)
 
 ### Solidity, go-etheruem and smart contract security:
 - [Crypto Zombies](https://cryptozombies.io/)
