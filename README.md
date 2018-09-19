@@ -61,6 +61,9 @@ Research/Reading topics/projects related to DOS protocols
 - [Ethereum from scratch - Part 1: Ping](https://ocalog.com/post/10/)
 - [Ethereum from scratch - Part 2: Pinging a Bootnode](https://ocalog.com/post/18/)
 - [Ethereum from scratch - Part 3: Decoding Bootnode Response](https://ocalog.com/post/20/)
+- [Kademlia: A Design Specification](http://xlattice.sourceforge.net/components/protocol/kademlia/specs.html#updates)
+- [Implementing-a-DHT-in-Go](http://blog.notdot.net/2009/11/Implementing-a-DHT-in-Go-part-1)
+
 
 ### Solidity, go-etheruem and smart contract security:
 - [Crypto Zombies](https://cryptozombies.io/)
