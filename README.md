@@ -76,6 +76,5 @@ Research/Reading topics/projects related to DOS protocols
 - [Seebug](https://paper.seebug.org/category/blockchain/)
 
 ### Golang:
--[named return arguments](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
-
--[fmt.Stringer interface](http://musse.cc/stringer-golang/)
+- [named return arguments](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
+- [fmt.Stringer interface](http://musse.cc/stringer-golang/)
