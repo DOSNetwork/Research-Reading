@@ -75,3 +75,6 @@ Research/Reading topics/projects related to DOS protocols
 - [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
 - [Seebug](https://paper.seebug.org/category/blockchain/)
 
+### Golang 
+-[named return arguments](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
+-[fmt.Stringer interface](http://musse.cc/stringer-golang/)
