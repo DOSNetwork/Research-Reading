@@ -78,3 +78,5 @@ Research/Reading topics/projects related to DOS protocols
 ### Golang:
 - [named return arguments](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
 - [fmt.Stringer interface](http://musse.cc/stringer-golang/)
+- [Profiling and optimizing Go web applications](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/) 
+- [Daily code optimization using benchmarks and profiling in Golang](https://medium.com/@hackintoshrao/daily-code-optimization-using-benchmarks-and-profiling-in-golang-gophercon-india-2016-talk-874c8b4dc3c5)
