@@ -55,7 +55,8 @@ Research/Reading topics/projects related to DOS protocols
 ### DKG:
 
 
-### zkSNARK:
+### Verifiable Computation & zk-SNARK:
+- [Pinocchio](https://eprint.iacr.org/2013/279.pdf)
 
 ### P2P
 - [Ethereum from scratch - Part 1: Ping](https://ocalog.com/post/10/)
