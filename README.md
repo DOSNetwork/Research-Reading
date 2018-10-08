@@ -8,7 +8,6 @@ Research/Reading topics/projects related to DOS protocols
 - [Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
 - [Elliptic Curves](https://crypto.stanford.edu/pbc/notes/elliptic/)
 - [Choosing safe curves for elliptic-curve cryptography](https://safecurves.cr.yp.to)
-- [PairingCheck on Ethereum](https://github.com/ethereum/EIPs/issues/197)
 - [BLS sample code on Ethereum](https://gist.github.com/BjornvdLaan/ca6dd4e3993e1ef392f363ec27fe74c4)
 
 ## Signatures BLS and Schnorr:
@@ -21,6 +20,9 @@ Research/Reading topics/projects related to DOS protocols
 - [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [Secret Sharing and Threshold Signatures with BLS](https://blog.dash.org/secret-sharing-and-threshold-signatures-with-bls-954d1587b5f)
 - [BLS: Is it really that slow?](https://blog.dash.org/bls-is-it-really-that-slow-4ca8c1fcd38e)
+- [EIP196 precompiled contract for point add and scalar multiply on bn256](https://github.com/ethereum/EIPs/issues/196)
+- [EIP197 precompiled contract for pairing check](https://github.com/ethereum/EIPs/issues/197)
+- [EIP to reduce gas costs for precompiled contracts](https://github.com/ethereum/EIPs/issues/1088)
 
 
 ## Smart Contracts, Solidity, and Go:
