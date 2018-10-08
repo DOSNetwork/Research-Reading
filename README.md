@@ -25,6 +25,8 @@ Research/Reading topics/projects related to DOS protocols
 
 ## Smart Contracts, Solidity, and Go:
 - [Solidity documentation](https://solidity.readthedocs.io/en/v0.4.24/)
+- [Official Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Beigepaper Yellowpaper](https://github.com/chronaeon/beigepaper)
 - [Ethereum Development with Go](https://goethereumbook.org)
 - [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
 - [Unit testing Solidity contracts on Ethereum with Go](https://medium.com/coinmonks/unit-testing-solidity-contracts-on-ethereum-with-go-3cc924091281)
