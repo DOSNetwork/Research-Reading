@@ -1,0 +1,16 @@
+A personal learning plan
+
+1)Learn what is Oracle
+https://medium.com/@dosnetwork/dos-network-boosting-blockchain-usability-c7cd7d8905cb?from=groupmessage&isappinstalled=0
+
+2)How to use githun
+https://guides.github.com/activities/hello-world/
+
+3)Testing and deploying ethereum smart contracts in go
+https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78
+https://medium.com/coinmonks/unit-testing-solidity-contracts-on-ethereum-with-go-3cc924091281
+
+Exercises
+->Using Remix IDE to Compile and Deploy a Smart Contract to Rinkeby
+->Write a go unit testing for a smart contract
+->Write a go unit testing for a go client
