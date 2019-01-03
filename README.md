@@ -77,6 +77,7 @@ Research/Reading topics/projects related to DOS protocols
 - [OpenZeppelin](https://openzeppelin.org/)
 - [Smart Contract Best Practices, Consensys](https://github.com/ConsenSys/smart-contract-best-practices)
 - [Solidity Challenge Tests by OpenZeppelin](https://ethernaut.zeppelin.solutions/)
+- [Native Dapps](https://github.com/ethereum/go-ethereum/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts)
 - [go-ethereum](https://goethereumbook.org/)
 - [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
 - [Seebug](https://paper.seebug.org/category/blockchain/)
