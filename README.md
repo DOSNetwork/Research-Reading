@@ -56,6 +56,8 @@ Research/Reading topics/projects related to DOS protocols
 ### Threshold Signatures:
  - (TODO) t-RSA V.S. t-BLS benchmark test
 
+### SWIM:
+- [Serf Example](https://jacobmartins.com/2017/01/29/practical-golang-building-a-simple-distributed-one-value-database-with-hashicorp-serf/)
 
 ### DKG:
 
